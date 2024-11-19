@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatikaFlix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12ce67a8fdfdc0410fec0148b0da3dfb1b23f092")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ada33f9449ff623310976b81956949e4978c1e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatikaFlix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatikaFlix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
